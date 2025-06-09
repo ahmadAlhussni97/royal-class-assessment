@@ -26,7 +26,9 @@ royal-class-assessment/
 
 
 # Install Application
-npm install
+
+cd service-a && npm install
+cd service-b && npm install
 
 **************************************************************************************************************************
 # Run Application :
