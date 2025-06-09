@@ -4,6 +4,13 @@ This repository contains a microservices example consisting of two NestJS servic
 The services demonstrate basic request handling and inter-service messaging using Redis and NestJS microservices.
 
 **************************************************************************************************************************
+
+# clone project:
+
+https://github.com/ahmadAlhussni97/royal-class-assessment.git
+
+
+**************************************************************************************************************************
 # Project structure
 
 royal-class-assessment/
